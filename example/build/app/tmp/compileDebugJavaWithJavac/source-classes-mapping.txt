@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/alternadom/wifiiotexample/BuildConfig.java
+ com.alternadom.wifiiotexample.BuildConfig
+com/alternadom/wifiiotexample/MainActivity.java
+ com.alternadom.wifiiotexample.MainActivity
